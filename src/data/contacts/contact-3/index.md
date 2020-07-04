@@ -2,5 +2,5 @@
 category: 'contact'
 title: 'Email'
 icon: 'paper-plane'
-content: 'greatgatsby@gmail.com'
+content: 'ipandani2505@gmail.com'
 ---

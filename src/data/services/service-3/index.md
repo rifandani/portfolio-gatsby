@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Copywrite'
-icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Back-End'
+icon: 'cubes'
+description: 'Using NodeJS as a Back-End, which is also using Javascript language on the server side, i could built Full-Stack Web App with only Javascript.'
 ---

@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Illustrator'
-percentage: 41
+title: 'MongoDB'
+percentage: 75
 ---

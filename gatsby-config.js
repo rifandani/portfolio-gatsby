@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby.JS`,
-    description: `Gatsby Markdown Personal Website Starter, using Typescript, Styled Components, Tailwindcss and Framer Motion.`,
-    author: `Saimir Kapaj`
+    title: `Tri Rizeki Rifandani`,
+    description: `Gatsby Personal Website`,
+    author: `Tri Rizeki Rifandani`
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -40,13 +40,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-personal-website-starter`,
-        short_name: `starter`,
+        name: `gatsby-portfolio-website`,
+        short_name: `portfolio`,
         start_url: `/`,
         background_color: `#81e6d9`,
         theme_color: `#81e6d9`,
         display: `minimal-ui`,
-        icon: `src/assets/images/gatsby-icon.png`
+        icon: `src/assets/images/rifandani-icon.png`
       }
     },
     `gatsby-plugin-offline`,

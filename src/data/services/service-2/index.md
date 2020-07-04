@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Graphic Design'
-icon: 'draw-polygon'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Database Engineer'
+icon: 'database'
+description: 'As a Full-Stack Web Developer, i have to be able to connect my web application to a database. That is why i also educate myself with MongoDB and MySQL Database.'
 ---

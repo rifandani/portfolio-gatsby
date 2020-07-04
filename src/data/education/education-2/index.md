@@ -1,9 +1,9 @@
 ---
 category: 'education'
-university: 'Stanford University'
-degree: 'Master of Science'
-startDate: 'Oct 2008'
-endDate: 'Jul 2010'
+university: 'Yogyakarta State University'
+degree: 'Undergraduate'
+startDate: 'Sept 2016'
+endDate: 'Sept 2020'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborist.
+S1, Education of Mechatronics Engineering, IPK (3.48/4.00).

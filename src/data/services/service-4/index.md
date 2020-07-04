@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Digital Marketing'
-icon: 'bullhorn'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Git'
+icon: 'code-branch'
+description: 'Experienced in basic usage of Version Control System (VCS) / Git. Published all my projects on Github to make it easier for individuals and teams for collaboration.'
 ---

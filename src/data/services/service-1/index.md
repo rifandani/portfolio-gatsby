@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Web Design'
+title: 'Front-End'
 icon: 'laptop-code'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Focusing all my websites built with Single Page Application (SPA) features using ReactJS. React has been trusted by many developers as a fast, simple and also scalable library.'
 ---

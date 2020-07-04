@@ -2,5 +2,5 @@
 category: 'contact'
 title: 'Phone'
 icon: 'phone'
-content: '+122 334 888 323'
+content: '+62-822-4319-9535'
 ---
