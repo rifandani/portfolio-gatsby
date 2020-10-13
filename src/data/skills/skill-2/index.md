@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'CSS'
-percentage: 80
+percentage: 85
 ---

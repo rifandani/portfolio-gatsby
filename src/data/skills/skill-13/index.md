@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'MongoDB'
+title: 'NextJS'
 percentage: 80
 ---

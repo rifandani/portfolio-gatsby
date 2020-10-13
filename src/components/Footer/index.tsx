@@ -10,10 +10,10 @@ const Footer: React.FC = () => (
   <Styled.Footer>
     <Container>
       <Styled.Links>
-        <Styled.Link href="https://github.com/rifandani/" rel="noreferrer noopener" target="_blank">
+        <Styled.Link href="https://www.linkedin.com/in/rifandani/" rel="noreferrer noopener" target="_blank">
           <FontAwesomeIcon icon={faLinkedin} />
         </Styled.Link>
-        <Styled.Link href="https://www.linkedin.com/in/rifandani/" rel="noreferrer noopener" target="_blank">
+        <Styled.Link href="https://github.com/rifandani/" rel="noreferrer noopener" target="_blank">
           <FontAwesomeIcon icon={faGithub} />
         </Styled.Link>
       </Styled.Links>

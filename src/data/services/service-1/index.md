@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Front-End'
+title: 'Front-End Engineer'
 icon: 'laptop-code'
-description: 'Focusing all my websites built with Single Page Application (SPA) features using ReactJS. React has been trusted by many developers as a fast, simple and also scalable library.'
+description: 'Focusing all my websites built with Single Page Application (SPA) using ReactJS. React has been trusted by many developers as a fast, simple and also scalable library.'
 ---

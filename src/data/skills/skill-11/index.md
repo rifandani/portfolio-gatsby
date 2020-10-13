@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'React'
+title: 'Firebase'
 percentage: 85
 ---

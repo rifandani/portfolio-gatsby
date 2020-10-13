@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'MongoDB'
+title: 'React Native'
 percentage: 80
 ---
