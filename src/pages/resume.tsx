@@ -4,6 +4,7 @@ import Layout from 'components/Layout';
 import SEO from 'components/SEO';
 import Experience from 'components/Experience';
 import Education from 'components/Education';
+import Certificate from 'components/Certificate';
 import Skills from 'components/Skills';
 
 const ResumePage: React.FC = () => (
@@ -12,6 +13,8 @@ const ResumePage: React.FC = () => (
     <Experience />
     <hr />
     <Education />
+    <hr />
+    <Certificate />
     <hr />
     <Skills />
   </Layout>

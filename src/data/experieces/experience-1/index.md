@@ -6,4 +6,4 @@ startDate: 'July 2018'
 endDate: 'Sept 2018'
 ---
 
-Internship for 2 months. Report in the form of paper. Published in UNY Mechatronics Journal.
+Internship for 3 months. Report in the form of paper. Published in UNY Mechatronics Journal.

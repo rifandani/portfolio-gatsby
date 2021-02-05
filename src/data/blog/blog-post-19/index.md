@@ -8,11 +8,7 @@ tags: ['NextJS', 'MongoDB', 'TailwindCSS']
 published: true
 ---
 
-## Overall Description
-
 _.Fullstack e-commerce application built using Nextjs with MongoDB database and custom authentication middleware using JSON web tokens. This is a typical e-commerce website for a home business owner complete with user and admin dashboard to track payment and activity reports. You can check the application on [Vercel](https://trishop.vercel.app) and also the source code on my [Github Repo](https://github.com/rifandani/trishop)._
-
-## Actual App Screenshot
 
 **Home Page**
 ![Home Page by Rifandani](./home.png)
