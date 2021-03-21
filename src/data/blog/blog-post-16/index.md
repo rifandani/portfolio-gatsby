@@ -8,7 +8,7 @@ tags: ['Firebase', 'React', 'Material-UI', 'Tailwind']
 published: true
 ---
 
-_This is by far my most complicated application built with React and Firebase. There is a lot of things going on in this app. I'm also using a ton of dependencies to make this app works smoothly, like Material-UI, Moment.js, React-Cookie, React-Flip-Move, React-Phone-Input-2, React-Share, React-Router-Dom, Validator, TailwindCSS, and also React-Twitter-Embed. I'm still not covering every single detailed thing that Twitter has. But at least, this app could works fine with a lot of functionality that works similar like the real twitter app._
+_This is a social media application built with React and Firebase. There is a lot of things going on in this app. I'm also using a ton of dependencies to make this app works smoothly, like Material-UI, Moment.js, React-Cookie, React-Flip-Move, React-Phone-Input-2, React-Share, React-Router-Dom, Validator, TailwindCSS, and also React-Twitter-Embed. I'm still not covering every single detailed thing that Twitter has. But at least, this app could works fine with a lot of functionality that works similar like the real twitter app._
 
 _You can see the full demo app in [Here](https://rifandani-twitter-clone.web.app/)._
 

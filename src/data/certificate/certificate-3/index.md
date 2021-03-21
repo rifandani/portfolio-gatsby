@@ -1,9 +1,10 @@
 ---
 category: 'certificate'
 issuer: 'Dicoding'
-issue: 'Azure Cloud Basics'
-startDate: 'Dec 2019'
-endDate: 'Dec 2022'
+issue: 'Build Cognitive Application'
+startDate: 'Oct 2020'
+endDate: 'Oct 2023'
+rank: 3
 ---
 
-Competences: Cloud Computing Principles, Introduction to Azure, Architecture and Services, Account, Portal introduction, Computing Services, Data Services, Networking Services, Security, Infrastructure Monitoring, Manage Azure Resources, Cost Estimating, and Exam.
+Competences: Introduction to the IBM Cloud, Text & Audio, Watson Assistant, Image & Visual Object, Language, Machine Learning - Watson Discovery, and Exam.

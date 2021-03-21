@@ -1,10 +1,10 @@
 ---
 category: 'blog'
 cover: './ml.png'
-title: 'Dicoding Certification'
-description: 'Machine Learning Certifications.'
+title: 'Machine Learning'
+description: 'Machine Learning Path Certifications by Dicoding'
 date: '2020-10-13'
-tags: ['Dicoding', 'Machine-Learning', 'Certificate']
+tags: ['dicoding', 'machine-learning', 'certificate']
 published: true
 ---
 

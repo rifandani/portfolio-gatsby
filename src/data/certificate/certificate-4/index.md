@@ -1,9 +1,10 @@
 ---
 category: 'certificate'
 issuer: 'Dicoding'
-issue: 'Programming with Python'
-startDate: 'March 2020'
-endDate: 'March 2023'
+issue: 'Machine Learning for Beginners'
+startDate: 'Oct 2020'
+endDate: 'Oct 2023'
+rank: 4
 ---
 
-Competences: Introduction to Python, Modes and Basics, Variables, Loop, Conditionals, Functions & Library, and Submission.
+Competences: Data Introduction, Unsupervised & Supervised Data, Support Vector Machine, Machine Learning Basics, Neural Networks, Tensorflow, and Submission.

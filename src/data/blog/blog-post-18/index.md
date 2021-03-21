@@ -2,9 +2,9 @@
 category: 'blog'
 cover: './ovo.png'
 title: 'OVO Clone'
-description: 'React Native App'
+description: 'Finance App using React Native'
 date: '2020-10-17'
-tags: ['React-Native', 'OVO', 'Expo']
+tags: ['react-native', 'finance', 'expo']
 published: true
 ---
 

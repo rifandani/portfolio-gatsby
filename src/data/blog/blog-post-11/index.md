@@ -1,10 +1,10 @@
 ---
 category: 'blog'
 cover: './third.png'
-title: 'Dicoding Certification'
-description: 'Front-End Learning Path Certifications.'
+title: 'Front-End'
+description: 'Front-End Path Certifications by Dicoding'
 date: '2020-07-04'
-tags: ['Dicoding', 'Web', 'Certificate', 'Front-End']
+tags: ['dicoding', 'frontend', 'certificate']
 published: true
 ---
 
@@ -22,3 +22,5 @@ _It was 2 April 2020. My first ever experience in Front-End Developer Learning P
 
 **Belajar Dasar Pemrograman Web Certificate**
 ![Belajar Dasar Pemrograman Web Certificate by Rifandani](./first.png)
+
+_Check the certificates validation by visiting the URL on the pictures or check out my [LinkedIn](https://www.linkedin.com/in/rifandani/) profile to see all of my certificates._

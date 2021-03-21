@@ -1,9 +1,10 @@
 ---
 category: 'certificate'
-issuer: 'CodePolitan'
-issue: 'Docker for Beginners'
-startDate: 'July 2020'
+issuer: 'Dinas Komunikasi dan Informatika'
+issue: 'IT Essentials'
+startDate: 'Nov 2019'
 endDate: 'Forever'
+rank: 8
 ---
 
-Competences: Images, Containers, Volumes, Networks, Dockerfile, Docker Compose, Docker Hub, and CI/CD.
+Competences: Computer components, Safe lab procedures, Preventive maintenance, Troubleshooting of Windows, Configure network devices, and Responsibilities of the IT professional.

@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'Firebase'
-percentage: 85
+percentage: 90
 ---

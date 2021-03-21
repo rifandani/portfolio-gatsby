@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'TailwindCSS'
-percentage: 85
+percentage: 90
 ---

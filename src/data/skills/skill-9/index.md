@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'GraphQL'
-percentage: 75
+percentage: 80
 ---

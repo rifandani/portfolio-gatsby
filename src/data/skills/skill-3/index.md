@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'JavaScript'
-percentage: 85
+percentage: 90
 ---

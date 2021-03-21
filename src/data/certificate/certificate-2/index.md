@@ -1,9 +1,10 @@
 ---
 category: 'certificate'
-issuer: 'Dinas Komunikasi dan Informatika'
-issue: 'IT Essentials'
-startDate: 'Nov 2019'
-endDate: 'Forever'
+issuer: 'Dicoding'
+issue: 'Build Progressive Web Apps'
+startDate: 'July 2020'
+endDate: 'July 2023'
+rank: 2
 ---
 
-Competences: Computer components, Safe lab procedures, Preventive maintenance, Troubleshooting of Windows, Configure network devices, and Responsibilities of the IT professional.
+Competences: Introduction to Progressive Web Apps, Application Shell, Promises in JavaScript, Service Worker, Deep Cache API, Storing Local Data with IndexedDB, Web Push Notification, Workbox, Deploying PWA, and Submission.

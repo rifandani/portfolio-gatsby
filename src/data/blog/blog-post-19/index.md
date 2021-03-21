@@ -4,7 +4,7 @@ cover: './home.png'
 title: 'TriShop'
 description: 'Fullstack E-Commerce App'
 date: '2021-02-05'
-tags: ['NextJS', 'MongoDB', 'TailwindCSS']
+tags: ['nextjs', 'mongodb', 'tailwindcss']
 published: true
 ---
 

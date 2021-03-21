@@ -1,9 +1,10 @@
 ---
 category: 'certificate'
-issuer: 'Progate'
-issue: 'Python Course'
-startDate: 'Oct 2020'
-endDate: 'Forever'
+issuer: 'Dicoding'
+issue: 'SOLID Programming Principles'
+startDate: 'April 2020'
+endDate: 'April 2023'
+rank: 13
 ---
 
-Competences: Basics, Variables, Booleans and Conditions, Data Structure, Loops, Functions, Rock Paper Scissors App, Classes and Instances, Instance Methods, The Food Ordering System, and Class Inheritance.
+Competences: Introduction to SOLID, OOP Module, SOLID Principles, SOLID as a Solution, and Exam.

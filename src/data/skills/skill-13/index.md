@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'NextJS'
-percentage: 80
+percentage: 90
 ---

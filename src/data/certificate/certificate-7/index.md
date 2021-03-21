@@ -1,9 +1,10 @@
 ---
 category: 'certificate'
 issuer: 'Dicoding'
-issue: 'SOLID Programming Principles'
-startDate: 'April 2020'
-endDate: 'April 2023'
+issue: 'Build Android App for Beginners'
+startDate: 'Oct 2019'
+endDate: 'Oct 2022'
+rank: 7
 ---
 
-Competences: Introduction to SOLID, OOP Module, SOLID Principles, SOLID as a Solution, and Exam.
+Competences: Introduction to Android Studio, Activity, Intent, Layout, Style and Theme, RecyclerView, and Submission.

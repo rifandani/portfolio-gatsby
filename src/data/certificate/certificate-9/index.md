@@ -1,9 +1,10 @@
 ---
 category: 'certificate'
-issuer: 'Sanbercode'
-issue: 'React Js Web Frontend'
-startDate: 'July 2020'
-endDate: 'Forever'
+issuer: 'Dicoding'
+issue: 'Azure Cloud Basics'
+startDate: 'Dec 2019'
+endDate: 'Dec 2022'
+rank: 9
 ---
 
-Competences: Basics of Javascript and HTML for React, CRA, Components, Props, State, Lifecycle Methods, Lists & Forms, Lifting State Up, Thinking in React, Hooks & Context API, React Router, Redux, Redux Thunk, Jest & React Testing Library, and Deployment.
+Competences: Cloud Computing Principles, Introduction to Azure, Architecture and Services, Account, Portal introduction, Computing Services, Data Services, Networking Services, Security, Infrastructure Monitoring, Manage Azure Resources, Cost Estimating, and Exam.
