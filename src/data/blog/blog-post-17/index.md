@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: './ml.png'
+cover: './ml-logo.png'
 title: 'Machine Learning'
 description: 'Machine Learning Path Certifications by Dicoding'
 date: '2020-10-13'

@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: './third.png'
+cover: './logo.png'
 title: 'Front-End'
 description: 'Front-End Path Certifications by Dicoding'
 date: '2020-07-04'
