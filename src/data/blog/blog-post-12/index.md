@@ -1,19 +1,29 @@
 ---
 category: 'blog'
-cover: './sanbercode1.png'
-title: 'Sanbercode Certification'
-description: 'React Js Web Frontend Certifications'
-date: '2020-07-18'
-tags: ['Sanbercode', 'Web', 'Certificate', 'Front-End', 'React']
+cover: './home.png'
+title: 'Developer News'
+description: 'Fullstack React app with GraphQl, Prisma and Apollo'
+date: '2020-08-05'
+tags: ['React', 'GraphQL', 'Prisma', 'Apollo']
 published: true
 ---
 
-_A very interesting and valuable experience from Sanbercode bootcamp. I learnt a lot and it gave me a good grounding in the basics of React. It really made me think, and I also liked how it enabled me to interact with great people from the bootcamp. The assignments were corrected quickly, with lots of positive feedback from the tutors. I’m looking forward to follow up to the next advanced React course._
+_GraphQL is Facebook’s new query language for fetching application data in a uniform way. GraphQL was designed to solve of the biggest drawbacks of REST-like APIs. Meanwhile, GraphQL is not a database query language like SQL, it’s an application layer query language that you can use with any backend. GraphQL is not opinionated about the network layer, which is often HTTP, nor about the payload format, which is usually JSON. It isn't opinionated about the application architecture at all. It is only a query language. And thats why i love GraphQL._
 
-**React Js Web Frontend Certificate**
-![React Js Web Frontend Certificate by Rifandani](./sanbercode1.png)
+_This app implement GraphQL instead of REST with React as a FrontEnd and Graphql-yoga which is Express-based library as a BackEnd. Connected to the backend using Prisma2. Auth systems using usual bcryptjs and jwt. On the front, i use Apollo-Client to interact with the the GraphQL. This app has many features such as GraphQL Query, Mutations, Subscriptions(BackEnd), Filtering, Sorting, and Pagination. You can see the demo app on [Heroku](https://devnews-graphql.herokuapp.com/)._
 
-_All the skills report is described down below. Check out my [LinkedIn](https://www.linkedin.com/in/rifandani/) profile to see all of my certifications._
+**Home Page**
+![Home Page](./home.png)
 
-**React Js Skill Report Certificate**
-![React Js Skill Report Certificate by Rifandani](./sanbercode2.png)
+_In order to vote & share a link/post, user have to login/register first._
+
+**Login Page**
+![Login Page](./login.png)
+
+**Share Page**
+![Share Page](./share.png)
+
+_To find a specific link/post, user can search it and filter it on /search endpoint._
+
+**Filter Page**
+![Filter Page](./filter.png)

@@ -1,31 +1,28 @@
 ---
 category: 'blog'
-cover: './trending.png'
-title: 'Compass News'
-description: 'Fullstack Hybrid App using Ionic Framework, React and Firebase'
-date: '2020-08-10'
-tags: ['Ionic', 'React', 'Firebase', 'Hybrid']
+cover: './home.png'
+title: 'React Voice AI'
+description: 'Voice Controlled React App using Alan AI'
+date: '2020-09-01'
+tags: ['Alan-AI', 'React', 'Framer-Motion', 'Material-UI']
 published: true
 ---
 
-_Ionic Framework is an open source mobile UI toolkit for building high quality, cross-platform native and web app experiences. Ionic is built to perform and run fast on all of the latest mobile devices. Build out-of-the-box blazing fast apps with a small footprint and built-in best practices like hardware accelerated transitions, touch-optimized gestures, pre-rendering, and AOT compiling. Ionic is also engineered to integrate seamlessly with all best frontend frameworks, including Angular, React, Vue, or even no framework at all with vanilla JavaScript. You can visit their site on [Ionic](https://ionicframework.com/)._
+_This app is a Voice Controlled Weather and News Portal Application built with Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to an application. It allows you to control absolutely everything in the app using your voice._
 
-_This app is built using Ionic Framework that let developers built hybrid app using just a single language which is Javascript. Connected to the firebase backend service, such as Auth systems, Firestore databases, and Firebase Hosting. On the front, i always use ReactJS to build an awesome UI. You can see the full demo app on [Firebase](https://react-firebase-crud-rifandani.web.app/)._
+_You can see the full demo app on [Netlify](https://rifandani-news.netlify.app/)._
 
-**Trending Page**
-![Trending Page](./trending.png)
+**Home Page**
+![Home Page](./home.png)
 
-_In order to upvote, comment & submit a news, user have to be login/register first. Then, user can do all that and there's also a edit profile features in which user could change their username, email, and also their password._
+_You can use the app by clicking on the mic button on the bottom right. Based on the voice command, Alan AI will execute and display whether a news or weather reports._
 
-**Profile Page**
-![Profile Page](./profile.png)
+**News Page**
+![News Page](./news.png)
 
-_Every user can submit a news, delete their own news, upvote, comment, edit comment and delete comment on the news feed. The News Feed becomes more interactive this way._
+_The latest news page._
 
-**Link Page**
-![Link Page](./link.png)
+**Weather Page**
+![Weather Page](./weather.png)
 
-_To find a specific news, user can search it on the search tab._
-
-**Search Page**
-![Search Page](./search.png)
+_Weather forecast report page._

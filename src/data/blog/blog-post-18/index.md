@@ -1,41 +1,47 @@
 ---
 category: 'blog'
-cover: './ovo.png'
-title: 'OVO Clone'
-description: 'Finance App using React Native'
-date: '2020-10-17'
-tags: ['react-native', 'finance', 'expo']
+cover: './home.png'
+title: 'TriShop'
+description: 'Fullstack E-Commerce App'
+date: '2021-02-05'
+tags: ['nextjs', 'mongodb', 'tailwindcss']
 published: true
 ---
 
-_I am so excited to start my first ever React Native Application using Expo. I decided to make a clone app which is based on the OVO app. I often use this app to pay my Grab Food and i think this app have a pretty good UI & functionality. So i chose this as my React Native app, although it is not exactly the same but at least it has a lot of similarity whether in UI or functionality. You can check the source code on my [Github](https://github.com/rifandani/ovo-clone)._
+_.Fullstack e-commerce application built using Nextjs with MongoDB database and custom authentication middleware using JSON web tokens. This is a typical e-commerce website for a home business owner complete with user and admin dashboard to track payment and activity reports. You can check the application on [Vercel](https://trishop.vercel.app) and also the source code on my [Github Repo](https://github.com/rifandani/trishop)._
 
-**Home Screen**
-![Home Screen by Rifandani](./home.png)
+**Home Page**
+![Home Page by Rifandani](./home.png)
 
-_Before user go to the home screen, they go to the intro splash screen first. On the home screen, user could go to the topup screen or they could spend their cash to pay any bills._
+_On the home screen, customer could see overview of the shop._
 
-**TopUp Screen**
-![TopUp Screen by Rifandani](./topup.png)
+**Products Page**
+![Products Page by Rifandani](./products.png)
 
-_This is where user topup their cash using Async Storage just to resembles some real money systems functionality._
+_This is where all the shop owner products listed._
 
-**MetodeLain Screen**
-![MetodeLain Screen by Rifandani](./metodelain.png)
+**Product Detail Page**
+![Product Detail Page by Rifandani](./product.png)
 
-_This is another tab view from topup screens but without any money systems functionality._
+_When a customer clicks on the product card from the products page, they redirected to this page._
 
-**Deals Screen**
-![Deals Screen by Rifandani](./deals.png)
+**Cart Page**
+![Cart Page by Rifandani](./cart.png)
 
-_This screen displays a lot of UI thing using snap carousel, custom fonts, and a lot more._
+_When a customer decided to buy products from the shop, they would go this page before proceeding to the checkout page._
 
-**Finance Screen**
-![Finance Screen by Rifandani](./finance.png)
+**Checkout Page**
+_Coming soon._
 
-_This is a UI without any functionality just like from the real OVO app._
+**Login Page**
+![Login Page by Rifandani](./login.png)
 
-**Profile Screen**
-![Profile Screen by Rifandani](./profile.png)
+_This is where the customer or shop owner login. If the customer login, they will be redirected to the customer dashboard, else they will be redirected to the admin dashboard._
 
-_This is a UI screen where all the app / user configurations located but without any functionality._
+**Customer Dashboard Page**
+_Coming soon._
+
+**Admin Dashboard Page**
+![Admin Dashboard Page by Rifandani](./admin.png)
+
+_This is where shop owners could see all the overall info and statistics from the website. Admin could create, edit, delete the users / admins and also create, edit, delete the products listing._

@@ -1,29 +1,31 @@
 ---
 category: 'blog'
-cover: './home.png'
-title: 'Developer News'
-description: 'Fullstack React app with GraphQl, Prisma and Apollo'
-date: '2020-08-05'
-tags: ['React', 'GraphQL', 'Prisma', 'Apollo']
+cover: './trending.png'
+title: 'Compass News'
+description: 'Fullstack Hybrid App using Ionic Framework, React and Firebase'
+date: '2020-08-10'
+tags: ['Ionic', 'React', 'Firebase', 'Hybrid']
 published: true
 ---
 
-_GraphQL is Facebook’s new query language for fetching application data in a uniform way. GraphQL was designed to solve of the biggest drawbacks of REST-like APIs. Meanwhile, GraphQL is not a database query language like SQL, it’s an application layer query language that you can use with any backend. GraphQL is not opinionated about the network layer, which is often HTTP, nor about the payload format, which is usually JSON. It isn't opinionated about the application architecture at all. It is only a query language. And thats why i love GraphQL._
+_Ionic Framework is an open source mobile UI toolkit for building high quality, cross-platform native and web app experiences. Ionic is built to perform and run fast on all of the latest mobile devices. Build out-of-the-box blazing fast apps with a small footprint and built-in best practices like hardware accelerated transitions, touch-optimized gestures, pre-rendering, and AOT compiling. Ionic is also engineered to integrate seamlessly with all best frontend frameworks, including Angular, React, Vue, or even no framework at all with vanilla JavaScript. You can visit their site on [Ionic](https://ionicframework.com/)._
 
-_This app implement GraphQL instead of REST with React as a FrontEnd and Graphql-yoga which is Express-based library as a BackEnd. Connected to the backend using Prisma2. Auth systems using usual bcryptjs and jwt. On the front, i use Apollo-Client to interact with the the GraphQL. This app has many features such as GraphQL Query, Mutations, Subscriptions(BackEnd), Filtering, Sorting, and Pagination. You can see the demo app on [Heroku](https://devnews-graphql.herokuapp.com/)._
+_This app is built using Ionic Framework that let developers built hybrid app using just a single language which is Javascript. Connected to the firebase backend service, such as Auth systems, Firestore databases, and Firebase Hosting. On the front, i always use ReactJS to build an awesome UI. You can see the full demo app on [Firebase](https://react-firebase-crud-rifandani.web.app/)._
 
-**Home Page**
-![Home Page](./home.png)
+**Trending Page**
+![Trending Page](./trending.png)
 
-_In order to vote & share a link/post, user have to login/register first._
+_In order to upvote, comment & submit a news, user have to be login/register first. Then, user can do all that and there's also a edit profile features in which user could change their username, email, and also their password._
 
-**Login Page**
-![Login Page](./login.png)
+**Profile Page**
+![Profile Page](./profile.png)
 
-**Share Page**
-![Share Page](./share.png)
+_Every user can submit a news, delete their own news, upvote, comment, edit comment and delete comment on the news feed. The News Feed becomes more interactive this way._
 
-_To find a specific link/post, user can search it and filter it on /search endpoint._
+**Link Page**
+![Link Page](./link.png)
 
-**Filter Page**
-![Filter Page](./filter.png)
+_To find a specific news, user can search it on the search tab._
+
+**Search Page**
+![Search Page](./search.png)

@@ -1,37 +1,54 @@
 ---
 category: 'blog'
-cover: './azure.png'
-title: 'Microsoft Azure'
-description: 'Azure Cloud Developer Path Certifications by Dicoding'
-date: '2021-03-22'
-tags: ['dicoding', 'azure', 'certificate']
+cover: './logo.png'
+title: 'Back End'
+description: 'Back End Learning Path Certifications by Dicoding'
+date: '2021-04-99'
+tags: ['dicoding', 'backend', 'certificate']
 published: true
 ---
 
-_Komputasi awan menjadi tren baru di dunia teknologi yang banyak dibicarakan. Diperkirakan pada tahun 2025, 80% organisasi akan memindahkan beban kerjanya ke cloud. Azure memiliki lebih dari 100 layanan untuk membangun dan mengelola aplikasi. Microsoft Azure memiliki 54 region data center yang tersebar di seluruh dunia, lebih banyak dari cloud provider manapun. Beberapa perusahaan terkenal yang menggunakan Microsoft Azure antara lain Spotify, Unilever, SAP, dsb._
+_Seorang Back-End Developer adalah Software Developer yang bertanggung jawab dalam mengelola server, aplikasi, dan database agar dapat saling berkomunikasi dengan baik dan lancar. Seorang Back-End Developer memiliki peranan yang sangat penting karena dengan Back-End lah suatu aplikasi Front-End dapat berjalan dengan semestinya. Pada learning path ini, Anda akan belajar mulai dasar pembuatan RESTful API; menggunakan teknologi database, storage, message broker, authentication dan authorization; hingga mempelajari konsep expert dalam mengembangkan RESTful API seperti Clean Architecture, Serverless, Container, dan CI/CD._
 
-**Belajar Dasar-Dasar Azure Cloud Certificate**
-![Belajar Dasar-Dasar Azure Cloud Certificate by Rifandani](./azure1.png)
+_Kurikulum Back-End Developer di Dicoding telah dikembangkan bersama AWS dan pelaku industri yang bergerak di bidang Back-End Development. Setiap langkah dalam learning path ini telah didesain agar siswa dapat memiliki pengetahuan yang cukup untuk menjadi seorang Back-End Developer._
 
-_Materi di kelas ini disusun oleh Dicoding dan telah divalidasi oleh Microsoft sebagai pemilik teknologi untuk mengenalkan prinsip-prinsip komputasi awan serta pengenalan layanan-layanan Azure cloud seperti layanan komputasi, penyimpanan, dan monitoring dalam pembuatan beserta pengelolaan aplikasi berbasis cloud._
+**Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) Certificate**
+![Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) Certificate by Rifandani](./aws.png)
 
-_Total jam yang dibutuhkan untuk menyelesaikan kelas ini kira-kira sekitar 40 jam. Materi yang dipelajari, diantaranya:_
+_Mempelajari materi dasar Cloud dengan menggunakan AWS, dari konsep cloud computing, hingga cara membangun arsitektur yang baik._
 
-_Prinsip-Prinsip Komputasi Awan, Pengenalan Azure, Arsitektur dan Layanan Azure, Akun Azure, Pengenalan Azure Portal, Layanan Komputasi Azure, Layanan Data Azure, Layanan Jaringan Azure, Keamanan di Azure, Monitoring Infrastruktur Azure, Mengelola Sumber Daya Azure, Estimasi Biaya pada Azure, dan Exam._
+_Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah 13 jam. Materi yang dipelajari, diantaranya:_
 
-**Menjadi Azure Cloud Developer Certificate**
-![Menjadi Azure Cloud Developer Certificate by Rifandani](./azure2.png)
+_Pengantar ke Amazon Web Services, Komputasi di Cloud, Infrastruktur Global dan Keandalan, Jaringan, Penyimpanan dan Database, Keamanan, Pemantauan dan Analitik, Harga dan Dukungan, Migrasi dan Inovasi, Perjalanan Cloud, serta Dasar-Dasar AWS Certified Cloud Practitioner._
 
-_Kelas lanjutan untuk mempelajari konsep dan terminologi cloud beserta berbagai layanan Azured Cloud sesuai kebutuhan sertifikasi Azure Developer Associate. Materi di kelas ini disusun oleh Dicoding dan telah divalidasi oleh Microsoft sebagai pemilik teknologi Azure Cloud. Kelas ini disusun untuk Anda yang ingin mendalami layanan-layanan Azure cloud seperti layanan komputasi, penyimpanan, dan kognitif untuk membuat dan mengembangkan aplikasi berbasis cloud._
+**Belajar Dasar Pemrograman JavaScript Certificate**
+![Belajar Dasar Pemrograman JavaScript Certificate by Rifandani](./javascript.png)
 
-_Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah 70 jam. Materi yang dipelajari, diantaranya:_
+_Mempelajari dasar JavaScript, dari fundamental, sintaks dan fitur ES6, hingga konsep automation test menggunakan framework populer._
 
-_Pengenalan Azure, Azure IaaS Compute Solutions, Azure PaaS Compute Solutions, Azure Database, Azure Storage, Azure Security, Monitor, Troubleshoot, and Optimize Solutions, Azure and Third-party Services, Azure Cognitive, Best Practices, dan Submission._
+_Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah 45 jam. Materi yang dipelajari, diantaranya:_
 
-_Sourcecode untuk submission 1 dan 2 di kelas ini: [GitHub](https://github.com/rifandani/dicoding-azure-submission-full)._
+_Pengenalan Javascript, JavaScript Fundamentals, Data Structure, Function, Object-Oriented Programming, Functional Programming, Setup Environment, Module, Error Handling, Concurrency, Node Package Manager, serta JavaScript Testing._
 
-_Untuk roadmap submission 1 dan 2 di kelas ini: [GitHub](https://github.com/rifandani/dicoding-azure-submission-full/projects/2)._
+**Belajar Membuat Aplikasi Back-End untuk Pemula Certificate**
+![Belajar Membuat Aplikasi Back-End untuk Pemula Certificate by Rifandani](./hapi.png)
 
-_Aplikasi submission: [Azure Static Web](https://thankful-wave-086fca500.azurestaticapps.net/)._
+_Mempelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga membangun Back-End untuk aplikasi yang nyata._
 
+_Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah 45 jam. Materi yang dipelajari, diantaranya:_
+
+_Pengenalan ke Back-End, Dasar-Dasar Node.js, Membangun Web Service menggunakan Node.js, Deploy Web Service, serta Mengonsumsi dan Menguji RESTful API menggunakan Postman._
+
+_Sourcecode untuk submission di kelas ini: [GitHub](https://github.com/rifandani/belajar-membuat-aplikasi-backend)._
+
+**Architecting on AWS (Membangun Arsitektur Cloud di AWS) Certificate**
+![Architecting on AWS (Membangun Arsitektur Cloud di AWS) Certificate by Rifandani](./arsitektur-aws.png)
+
+_Mempelajari cara membangun arsitektur cloud di AWS, dari yang sederhana dengan Amazon S3, hingga yang canggih dengan serverless.._
+
+_Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah 40 jam. Materi yang dipelajari, diantaranya:_
+
+_Arsitektur Tersederhana dari AWS, Menambahkan Lapisan Komputasi, Menambahkan Lapisan Database, Jaringan di AWS - Bagian 1, Jaringan di AWS - Bagian 2, AWS Identity and Access Management (IAM), Elastisitas, Ketersediaan Tinggi, dan Pemantauan, Automasi, Caching, Membangun Decoupled Architecture, Arsitektur Microservices dan Serverless, RTO/RPO dan Backup Recovery Setup, serta Pengoptimalan dan Ringkasan._
+
+**LinkedIn**
 _Check the certificates validation by visiting the URL on the pictures or check out my [LinkedIn](https://www.linkedin.com/in/rifandani/) profile to see all of my certificates._
