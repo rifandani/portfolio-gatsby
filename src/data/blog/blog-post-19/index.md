@@ -32,6 +32,6 @@ _Sourcecode untuk submission 1 dan 2 di kelas ini: [GitHub](https://github.com/r
 
 _Untuk roadmap submission 1 dan 2 di kelas ini: [GitHub](https://github.com/rifandani/dicoding-azure-submission-full/projects/2)._
 
-_Aplikasi submission: [Azure Static Web](https://thankful-wave-086fca500.azurestaticapps.net/)._
+**LinkedIn**
 
 _Check the certificates validation by visiting the URL on the pictures or check out my [LinkedIn](https://www.linkedin.com/in/rifandani/) profile to see all of my certificates._

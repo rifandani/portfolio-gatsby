@@ -1,10 +1,10 @@
 ---
 category: 'certificate'
-issuer: 'DQLab'
-issue: 'Data Wrangling Python'
-startDate: 'Nov 2020'
-endDate: 'Forever'
-rank: 6
+issuer: 'Dicoding'
+issue: 'Becoming Azure Cloud Developer'
+startDate: 'March 2021'
+endDate: 'March 2024'
+date: '2021-03-13'
 ---
 
-Competences: Pandas, Handle Missing Data, Data Normalization, Matplotlib, Data Visualization.
+Competences: Introduction to Azure, Azure IaaS Compute Solutions, Azure PaaS Compute Solutions, Azure Database, Azure Storage, Azure Security, Monitor, Troubleshoot, and Optimize Solutions, Azure and Third-party Services, Azure Cognitive, and Azure Best Practices.

@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Azure'
+title: 'Microsoft Azure'
 percentage: 80
 ---

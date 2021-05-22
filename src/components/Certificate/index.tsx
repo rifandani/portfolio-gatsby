@@ -33,7 +33,7 @@ const Certificate: React.FC = () => {
       allMarkdownRemark(
         filter: { frontmatter: { category: { eq: "certificate" } } }
         # sort: { order: DESC, fields: fileAbsolutePath }
-        sort: { order: ASC, fields: frontmatter___issuer }
+        sort: { fields: frontmatter___date, order: DESC }
       ) {
         edges {
           node {
@@ -44,6 +44,7 @@ const Certificate: React.FC = () => {
               issue
               startDate
               endDate
+              date
             }
           }
         }

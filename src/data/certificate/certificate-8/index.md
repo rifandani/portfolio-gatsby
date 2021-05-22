@@ -1,10 +1,10 @@
 ---
 category: 'certificate'
-issuer: 'Dinas Komunikasi dan Informatika'
-issue: 'IT Essentials'
-startDate: 'Nov 2019'
-endDate: 'Forever'
-rank: 8
+issuer: 'Dicoding'
+issue: 'Become a Front-End Web Developer Expert'
+startDate: 'May 2021'
+endDate: 'May 2024'
+date: '2021-05-21'
 ---
 
-Competences: Computer components, Safe lab procedures, Preventive maintenance, Troubleshooting of Windows, Configure network devices, and Responsibilities of the IT professional.
+Competences: Introduction to Optimal Websites, Mobile First Approach, Accessibility, JavaScript Clean Code, Progressive Web Apps, Automation Testing, and Web Performance.

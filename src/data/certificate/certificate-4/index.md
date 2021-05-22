@@ -1,10 +1,10 @@
 ---
 category: 'certificate'
-issuer: 'Dicoding'
-issue: 'Machine Learning for Beginners'
-startDate: 'Oct 2020'
-endDate: 'Oct 2023'
-rank: 4
+issuer: 'Dinas Komunikasi dan Informatika'
+issue: 'IT Essentials'
+startDate: 'Nov 2019'
+endDate: 'Forever'
+date: '2019-11-13'
 ---
 
-Competences: Data Introduction, Unsupervised & Supervised Data, Support Vector Machine, Machine Learning Basics, Neural Networks, Tensorflow, and Submission.
+Competences: Computer components, Safe lab procedures, Preventive maintenance, Troubleshooting of Windows, Configure network devices, and Responsibilities of the IT professional.

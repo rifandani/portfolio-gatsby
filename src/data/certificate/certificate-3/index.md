@@ -1,10 +1,10 @@
 ---
 category: 'certificate'
-issuer: 'Dicoding'
-issue: 'Build Cognitive Application'
-startDate: 'Oct 2020'
-endDate: 'Oct 2023'
-rank: 3
+issuer: 'DQLab'
+issue: 'Data Wrangling Python'
+startDate: 'Nov 2020'
+endDate: 'Forever'
+date: '2020-11-13'
 ---
 
-Competences: Introduction to the IBM Cloud, Text & Audio, Watson Assistant, Image & Visual Object, Language, Machine Learning - Watson Discovery, and Exam.
+Competences: Pandas, Handle Missing Data, Data Normalization, Matplotlib, Data Visualization.

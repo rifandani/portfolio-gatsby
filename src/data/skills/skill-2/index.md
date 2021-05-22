@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'CSS'
-percentage: 90
+title: 'Cypress'
+percentage: 75
 ---

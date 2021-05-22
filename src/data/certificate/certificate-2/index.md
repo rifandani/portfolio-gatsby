@@ -1,10 +1,10 @@
 ---
 category: 'certificate'
 issuer: 'Dicoding'
-issue: 'Build Progressive Web Apps'
-startDate: 'July 2020'
-endDate: 'July 2023'
-rank: 2
+issue: 'Machine Learning for Beginners'
+startDate: 'Oct 2020'
+endDate: 'Oct 2023'
+date: '2020-10-13'
 ---
 
-Competences: Introduction to Progressive Web Apps, Application Shell, Promises in JavaScript, Service Worker, Deep Cache API, Storing Local Data with IndexedDB, Web Push Notification, Workbox, Deploying PWA, and Submission.
+Competences: Data Introduction, Unsupervised & Supervised Data, Support Vector Machine, Machine Learning Basics, Neural Networks, Tensorflow, and Submission.
