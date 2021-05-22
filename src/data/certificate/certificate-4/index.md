@@ -1,6 +1,6 @@
 ---
 category: 'certificate'
-issuer: 'Dinas Komunikasi dan Informatika'
+issuer: 'KOMINFO'
 issue: 'IT Essentials'
 startDate: 'Nov 2019'
 endDate: 'Forever'

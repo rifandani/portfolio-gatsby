@@ -1,15 +1,15 @@
 ---
 category: 'blog'
-cover: './weather-finder.png'
-title: 'Weather Finder'
-description: 'Simple Weather Finder App implementing working with API.'
-date: '2020-05-05'
-tags: ['Node', 'Express', 'Handlebars', 'Axios']
+cover: './catatan-keuangan.png'
+title: 'Catatan Keuangan'
+description: 'MERN Stack Application Catatan Keuangan.'
+date: '2020-05-31'
+tags: ['MongoDB', 'Express', 'React', 'Node', 'PWA']
 published: true
 ---
 
-_My first functional Javascript project is to build a simple Weather Finder App based on NodeJS framework ExpressJS using Handlebars template engine, Axios for API calls, and weather API provider openweathermap.org. The app is deployed on [Heroku](https://agile-island-52063.herokuapp.com/)._
+_My first FullStack Application built on top of MERN Stack. This Application also PWA supported. Catatan Keuangan is used for tracking your personal incomes and expenses. The app is deployed on [Heroku](https://rifandani-catatan-keuangan.herokuapp.com/)._
 
 **Screenshot**
 
-![Weather Finder App by Rifandani](./weather-finder.png)
+![Catatan Keuangan App by Rifandani](./catatan-keuangan.png)

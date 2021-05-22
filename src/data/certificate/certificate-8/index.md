@@ -1,7 +1,7 @@
 ---
 category: 'certificate'
 issuer: 'Dicoding'
-issue: 'Become a Front-End Web Developer Expert'
+issue: 'Front-End Web Developer Expert'
 startDate: 'May 2021'
 endDate: 'May 2024'
 date: '2021-05-21'

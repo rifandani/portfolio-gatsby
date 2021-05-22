@@ -3,7 +3,7 @@ category: 'certificate'
 issuer: 'Shopee'
 issue: 'National Data Science Challenge'
 startDate: 'Nov 2020'
-endDate: 'Nov 2020'
+endDate: 'Forever'
 date: '2020-11-13'
 ---
 

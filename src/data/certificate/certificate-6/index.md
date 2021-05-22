@@ -1,7 +1,7 @@
 ---
 category: 'certificate'
 issuer: 'Dicoding'
-issue: 'Becoming Azure Cloud Developer'
+issue: 'Azure Cloud Developer'
 startDate: 'March 2021'
 endDate: 'March 2024'
 date: '2021-03-13'
