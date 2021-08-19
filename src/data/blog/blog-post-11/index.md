@@ -1,7 +1,7 @@
 ---
 category: 'blog'
 cover: './logo.png'
-title: 'Backend'
+title: 'Back-End'
 description: 'Back-End Path Certifications by Dicoding'
 date: '2021-05-11'
 tags: ['dicoding', 'backend', 'certificate']

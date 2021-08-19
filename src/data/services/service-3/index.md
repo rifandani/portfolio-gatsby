@@ -2,5 +2,5 @@
 category: 'services'
 title: 'Back-End Engineer'
 icon: 'cubes'
-description: 'Backend also handled with Javascript or Typecript using Express. Comfortable working with REST API and GraphQL architecture.'
+description: 'Experienced in building backend with Typecript using Express (FP-style) or Nest (OOP-style). Comfortable working with RESTful API and GraphQL architecture.'
 ---
